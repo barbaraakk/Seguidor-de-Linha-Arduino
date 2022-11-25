@@ -5,7 +5,7 @@ Projeto realizado no curso de Arduino e Dispositivos Robóticos, no qual a ativi
 
 
 
-<h1>Material utilizado</h1>
+<h1>Componentes utilizados</h1>
 
 1 Placa Arduino Uno R3.
 
