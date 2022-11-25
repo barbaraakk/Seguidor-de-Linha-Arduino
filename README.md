@@ -3,7 +3,9 @@ Projeto realizado no curso de Arduino e Dispositivos Robóticos, no qual a ativi
 
 ![IMG-20221125-WA0020](https://user-images.githubusercontent.com/105740844/204027276-1c06dcb2-1a2e-4192-b80c-b19d4fae6fe9.jpg)
 
+<h1>Código</h1>
 
+![Codigo](https://user-images.githubusercontent.com/105740844/204033972-636e069d-b059-4f4c-b2d0-a930f20b9887.png)
 
 <h1>Componentes utilizados</h1>
 
