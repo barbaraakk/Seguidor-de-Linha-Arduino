@@ -1,6 +1,10 @@
 # Seguidor-de-Linha-Arduino
 Projeto realizado no curso de Arduino e Dispositivos Robóticos, no qual a atividade proposta foi de elaborar um carro de corrida autonomo que seguirá uma linha para completar o circuito. 
 
+![IMG-20221125-WA0020](https://user-images.githubusercontent.com/105740844/204027276-1c06dcb2-1a2e-4192-b80c-b19d4fae6fe9.jpg)
+
+
+
 <h1>Material utilizado</h1>
 
 1 Placa Arduino Uno R3.
@@ -15,7 +19,7 @@ Projeto realizado no curso de Arduino e Dispositivos Robóticos, no qual a ativi
 
 <hr>
 
-1 Sensor de linha.
+1 Módulo Sensor de linha.
 
 ![sensorlinha](https://user-images.githubusercontent.com/105740844/203982100-b1726ee6-d971-41aa-8229-c2a64a901750.png)
 
