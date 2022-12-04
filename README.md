@@ -1,5 +1,5 @@
 # Seguidor-de-Linha-Arduino
-Projeto realizado no curso de Arduino e Dispositivos Robóticos, no qual a atividade proposta foi de elaborar um carro de corrida autonomo que seguirá uma linha para completar o circuito. O robô foi feito utilizando a IDE do Arduino.
+Projeto realizado no curso de Arduino e Dispositivos Robóticos(IFC), no qual a atividade proposta foi de elaborar um carro de corrida autonomo que seguirá uma linha para completar o circuito. O robô foi feito utilizando a IDE do Arduino.
 
 ![IMG-20221125-WA0020](https://user-images.githubusercontent.com/105740844/204027276-1c06dcb2-1a2e-4192-b80c-b19d4fae6fe9.jpg)
 
